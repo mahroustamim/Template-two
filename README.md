@@ -1,3 +1,3 @@
-# Html-And-Css-Template-two
+### Html-And-Css-Template-two
 ### Demo
-https://mahroustamim.github.io/Html-And-Css-Template-two/
+https://mahroustamim.github.io/Template-two/
